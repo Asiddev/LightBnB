@@ -9,7 +9,7 @@ INSERT INTO properties (owner_id,title,description,thumbnail_photo_url,cost_per_
 VALUES
 (1, 'Big House','Big house near water','Picture1.jpeg', 250,'Canada','4543 East 55th ave','Vancouver','BC', 'v5w1w2', true ),
 (2, 'Small Apartment','City Highrise','Picture2.jpeg', 150,'USA','McDonalds Street','Washington','DC', '49912', true ),
-(3, 'Big House','Big house near water','Picture3.jpeg', 25,'Brazil','Forest Ave','Forest City','AB', '230012', true );
+(3, 'TrailerPark','Not very nice','Picture3.jpeg', 25,'Brazil','Forest Ave','Forest City','AZ', '230012', true );
 
 INSERT INTO reservations (start_date, end_date, property_id, guest_id)
 VALUES 
